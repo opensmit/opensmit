@@ -11,6 +11,9 @@
 ہماری کمیونٹی اور اپ ڈیٹس کے لیے ہمیں یہاں فالو کریں:
 
 <p align="left">
+<a href="https://opensmit.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Opensmit_Website-1793d1%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" />
+</a>
 <a href="https://x.com/opensmit" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
