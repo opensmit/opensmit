@@ -1,11 +1,5 @@
 🚀 Opensmit | Official Repository
 
-<p align="center">
-<a href="https://opensmit.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-Opensmit.com-1793d1%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Opensmit Website" />
-</a>
-</p>
-
 🌐 اوپن سمت سے جڑیں
 
 ہماری کمیونٹی اور اپ ڈیٹس کے لیے ہمیں یہاں فالو کریں:
