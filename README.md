@@ -30,6 +30,7 @@
 ### اوپن سمت کے بارے میں
 "شفاف اور سادہ کمپیوٹنگ کے ذریعے انسانی صلاحیتوں کو بلندی تک پہنچانا۔"
 اوپن سمت ایک ایسی اوپن سورس کمپنی ہے جو سادگی، رفتار اور خوبصورتی کے فلسفے پر یقین رکھتی ہے۔ ہمارا مشن ٹیکنالوجی کو ہر ایک کے لیے نہ صرف مفت بنانا ہے، بلکہ اسے اس قدر آسان بنانا ہے کہ کوئی بھی اسے بغیر کسی رکاوٹ کے استعمال کر سکے۔
+_____
 ###About Opensmit
 "Elevating Human Potential through Transparent and Minimalist Computing."
 Opensmit is an open-source company that believes in the philosophy of simplicity, speed, and elegance. Our mission is not only to make technology free for everyone but to make it so intuitive and accessible that anyone can use it without barriers.
