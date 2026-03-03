@@ -7,8 +7,7 @@
 </p>
 
 🌐 Connect with Opensmit
-
-ہماری کمیونٹی اور اپ ڈیٹس کے لیے ہمیں یہاں فالو کریں:
+Follow us here for our community and updates:                                    ہماری کمیونٹی اور اپ ڈیٹس کے لیے ہمیں یہاں فالو کریں:
 
 <p align="left">
 <a href="https://x.com/opensmit" target="_blank">
